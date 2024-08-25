@@ -1,5 +1,7 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/aa5bb479-4fe9-47b3-a665-cd2d7d233d9d)
+![github-header-image (1)](https://github.com/user-attachments/assets/7c06b675-87cc-440a-af48-56cae5a3d6ff)
+![github-header-image (2)](https://github.com/user-attachments/assets/43d18f5d-e3de-4573-b20f-ced2e25370eb)
 
 
 - 🌱 I’m currently learning Python, SQL, LXC, Docker
