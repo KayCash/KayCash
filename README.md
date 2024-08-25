@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Kayla
 
-- 🔭 I’m currently working on python projects
 - 🌱 I’m currently learning Python, SQL, LXC, Docker
+- 🔭 I’m currently working on python projects
 - 😄 Pronouns: She/Her
 
 <!--
