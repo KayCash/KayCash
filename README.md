@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Kayla
+
+![github-header-image](https://github.com/user-attachments/assets/aa5bb479-4fe9-47b3-a665-cd2d7d233d9d)
+
 
 - 🌱 I’m currently learning Python, SQL, LXC, Docker
 - 🔭 I’m currently working on python projects
@@ -17,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Hi there 👋 I'm Kayla
 -->
