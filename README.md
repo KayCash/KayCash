@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on python projects
+- 🌱 I’m currently learning Python, SQL, LXC, Docker
+- 😄 Pronouns: She/Her
+
 <!--
 **KayCash/KayCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
