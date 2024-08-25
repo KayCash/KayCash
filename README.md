@@ -1,6 +1,5 @@
 
-![github-header-image (1)](https://github.com/user-attachments/assets/7c06b675-87cc-440a-af48-56cae5a3d6ff)
-
+![github-header-image (3)](https://github.com/user-attachments/assets/b3119762-f249-40bf-afcc-564c8db69494)
 
 - 🌱 I’m currently learning Python, SQL, LXC, Docker
 - 🔭 I’m currently working on python projects
